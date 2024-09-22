@@ -1,0 +1,16 @@
+LOOP ANGKA:
+
+link flowchart;
+https://drive.google.com/file/d/1RZeXO_rk7m0xJ8wfDtELcxWGrdNbmXbJ/view?usp=sharing
+
+its pseudo code;
+BEGIN
+for i from 7 downto 1
+    for j from 1 to i
+        print j
+    print newline
+end for
+end
+
+
+
