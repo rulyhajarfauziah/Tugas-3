@@ -1,0 +1,16 @@
+POLA SEGITIGA BINTANG:
+
+https://drive.google.com/file/d/1ucmhTL9P3phmUBEVHEW_nu9JkJWD1Ae5/view?usp=sharing
+
+its pseudocode;
+
+BEGIN
+var i as integer
+i = 1
+WHILE i <= 5
+    PRINT (5 - i) spaces
+    PRINT (i) stars
+    PRINT newline
+    i = i + 1
+END WHILE
+END
