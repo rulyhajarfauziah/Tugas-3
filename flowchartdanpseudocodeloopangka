@@ -1,4 +1,4 @@
-LOOP ANGKA:
+POLA ANGKA:
 
 link flowchart;
 https://drive.google.com/file/d/1RZeXO_rk7m0xJ8wfDtELcxWGrdNbmXbJ/view?usp=sharing
@@ -11,6 +11,8 @@ for i from 7 downto 1
     print newline
 end for
 end
+
+
 
 
 
