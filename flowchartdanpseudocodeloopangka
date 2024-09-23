@@ -4,7 +4,10 @@ link flowchart;
 https://drive.google.com/file/d/1RZeXO_rk7m0xJ8wfDtELcxWGrdNbmXbJ/view?usp=sharing
 
 its pseudo code;
+
 BEGIN
+var i as integer
+var j as integer
 for i from 7 downto 1
     for j from 1 to i
         print j
