@@ -1,0 +1,15 @@
+BINTANG TERBALIK:
+
+https://drive.google.com/file/d/1Y0h_OFeoFuq5fN3PPYu0DqmLSQiqvS83/view?usp=sharing
+
+its pseudo code:
+
+START
+i = 1
+WHILE i <= 7
+    PRINT (i - 1) spaces
+    PRINT (8 - i) stars
+    PRINT newline
+    i = i + 1
+END WHILE
+END
