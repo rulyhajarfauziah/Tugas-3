@@ -1,10 +1,13 @@
 BINTANG TERBALIK:
 
+link flowchart;
+
 https://drive.google.com/file/d/1Y0h_OFeoFuq5fN3PPYu0DqmLSQiqvS83/view?usp=sharing
 
 its pseudo code:
 
-START
+BEGIN
+var i as double
 i = 1
 WHILE i <= 7
     PRINT (i - 1) spaces
